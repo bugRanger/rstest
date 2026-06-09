@@ -42,7 +42,6 @@
 //!     assert!(a == b);
 //! }
 //!
-//!
 //! // Here we reuse the `two_simple_cases` template to create two
 //! // other tests
 //! #[apply(two_simple_cases)]
